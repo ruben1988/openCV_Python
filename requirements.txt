@@ -1,0 +1,6 @@
+centroid-tracker
+imutils
+numpy
+argparse
+opencv-python
+subprocess.run
